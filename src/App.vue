@@ -20,7 +20,7 @@
 
 <style>
   @import url('https://fonts.googleapis.com/css?family=Comfortaa');
-  
+
   #app {
     font-family: 'Comfortaa', cursive;
     -webkit-overflow-scrolling: touch;
